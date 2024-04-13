@@ -1,6 +1,6 @@
 {
   "contractName": "SupplyChain",
-  "abi": [
+"abi": [
     {
       "constant": true,
       "inputs": [
